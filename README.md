@@ -24,7 +24,7 @@ I used many programming languages in my studie:
 
 I know MySQL and PostgreSQL too and I used Git all lot (GitHub and GitLab).
 
-## next step 
+## Next step 
 I'm entering soon into the real world, so I want to make my personal website (with React, because I love it !).
 
 <!---
