@@ -24,6 +24,9 @@ I used many programming languages in my studie:
 
 I know MySQL and PostgreSQL too and I used Git all lot (GitHub and GitLab).
 
+## next step 
+I'm entering soon into the real world, so I want to make my personal website (with React, because I love it !).
+
 <!---
 hugoFifre/hugoFifre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
